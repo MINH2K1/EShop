@@ -15,8 +15,6 @@
     <Folder Include="Areas\Staff\Models\" />
     <Folder Include="Areas\Staff\Views\" />
     <Folder Include="Data\Seed\" />
-    <Folder Include="ViewModel\Invoice\Command\" />
-    <Folder Include="ViewModel\Invoice\Query\" />
     <Folder Include="Views\ProductTypes\" />
   </ItemGroup>
 
