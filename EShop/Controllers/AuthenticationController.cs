@@ -16,6 +16,5 @@ namespace EShop.Controllers
         {
             return View();
         }
-        public 
     }
 }
